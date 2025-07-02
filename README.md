@@ -1,3 +1,5 @@
+[English Version](https://github.com/diegopereiracruz/Linux-Driver-Quirks/blob/main/sdhci_debug_quirks_EN.md)
+
 # debug_quirks
 
 O parâmetro `sdhci.debug_quirks` no Linux é usado para **depurar ou ajustar o comportamento do driver SDHCI (Secure Digital Host Controller Interface)**, que controla interfaces de cartão SD e eMMC em sistemas Linux.
